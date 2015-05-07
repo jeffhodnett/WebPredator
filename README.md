@@ -1,6 +1,6 @@
 # WebPredator
 
-* Dutch: [looks up in awareness] He's using the trees. *
+> Dutch: [looks up in awareness] He's using the trees.
 
 ![WebPredator](https://raw.github.com/jeffhodnett/WebPredator/master/predator.png)
 

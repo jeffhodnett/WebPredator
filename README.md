@@ -1,10 +1,12 @@
 # WebPredator
 
+* Dutch: [looks up in awareness] He's using the trees. *
+
 ![WebPredator](https://raw.github.com/jeffhodnett/WebPredator/master/predator.png)
 
 ## About
 
-Color match your view's background with your webview to avoid those scrolling color nightmares. I was tired of having some UIWebViews showing webpages and having to manually match colors for the sites to change background color resulting in a harsh color change when scrolling.
+Color match your view's background with your webview to avoid those scrolling color nightmares. I was tired of having UIWebViews showing webpages and having to manually match background colors, along with sites frequently changing background color resulting in a harsh color change when scrolling.
 
 ## Usage
 
